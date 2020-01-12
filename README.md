@@ -1,20 +1,6 @@
-# buddypress-group-tabs
+# Buddypress Group Tabs
 
-=== Buddypress Group tabs ===
-
-Contributors: jonas skjodt
-
-Tags: buddypress, group tabs
-
-Requires at least: WordPress 4.9 and BuddyPress 5.1
-
-Tested up to: WordPress 4.9 and BuddyPress 5.1
-
-Stable tag: 1.0
-
-== Description ==
-
-Wordpress starter plugin to add extra tabs with info to specific Buddypress groups
+A quick Wordpress plugin to add a coding base for adding extra (specific) Buddypress group tabs
 
 = 1.0 =
 Plugin start
