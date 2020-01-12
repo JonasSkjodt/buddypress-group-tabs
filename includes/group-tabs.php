@@ -13,8 +13,9 @@ class new_buddypress_group_tab extends BP_Group_Extension {
     // contruct the new group tab
     function __construct() {
     
-	// if the group is specific and not all the groups, add the if
-	if (bp_is_group('NAMEOFGROUP') && 'NAMEOFGROUP' == bp_current_item()  ) { 
+	// if the group tab is specific and not all the groups, add the if
+	// if the tab is for all groups, uncomment or delete the if
+	if (bp_is_group('NAMEOFGROUP') && 'NAMEOFGROUP' == bp_current_item()  ) { // change NAMEOFGROUP to your group name
     
         // add the new group tab specifics
         $args = array(
