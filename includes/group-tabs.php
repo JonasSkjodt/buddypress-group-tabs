@@ -30,8 +30,9 @@ class new_buddypress_group_tab extends BP_Group_Extension {
     
     // show whats in the group tab
     function display( $group_id = NULL ) {
-    
-      // fill your group tab code here
+   
+      // What's inside you group tab?
+      // Fill your group tab code here
     
     }   
 }
